@@ -1,0 +1,42 @@
+/* card-design.css */
+
+.col-md-4 {
+  border: 1px solid #606d2c; /* Цвет рамки */
+  border-radius: 8px; /* Закругленные углы */
+  padding: 16px; /* Отступы внутри карточки */
+  margin: 10px; /* Отступы между карточками */
+  background-color: #ccffc2; /* Цвет фона */
+  text-align: center; /* Выравнивание текста по центру */
+  font-family: 'Arial', sans-serif; /* Шрифт */
+}
+
+.card-title {
+  color: #333; /* Цвет текста заголовка */
+  font-size: 24px; /* Размер шрифта заголовка */
+  margin-bottom: 8px; /* Отступ снизу */
+}
+
+.card-text-descrip {
+  color: #666; /* Цвет текста описания */
+  font-size: 16px; /* Размер шрифта описания */
+  margin-bottom: 12px; /* Отступ снизу */
+}
+
+.card-text-age {
+  color: #e91e63; /* Цвет возраста */
+  font-size: 20px; /* Размер шрифта возраста */
+  font-weight: bold; /* Жирный шрифт */
+}
+
+.float-right {
+  float: right;
+  margin-top: 10px; /* добавьте отступ сверху, если необходимо */
+}
+
+.button-gap {
+  margin-left: 10px; /* добавьте расстояние слева */
+}
+
+.button-high {
+  margin-top: 10 px;
+}
